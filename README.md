@@ -4,7 +4,7 @@ Usage for weboot
 
 ## usage
 
-1. Clone this example to your local
+1. Clone this repository to your local
 
     ```sh
     $ git clone https://github.com/maolion/weboot-example.git
