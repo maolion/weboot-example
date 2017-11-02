@@ -1,6 +1,6 @@
 # Weboot example
 
-Usage for weboot
+Usage for [weboot](https://github.com/maolion/weboot)
 
 ## usage
 
